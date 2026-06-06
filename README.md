@@ -661,6 +661,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 * [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
 * [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+* [TWZRD Agent Intel](https://intel.twzrd.xyz): Trust-scoring MCP server for x402 payment agents on Solana — free preflight check + signed V5 trust receipt via USDC micropayment (<1s settlement). Tools: `resolve_agent`, `score_agent`, `get_trust_receipt`, `verify_trust_receipt`. [MCP endpoint](https://intel.twzrd.xyz/mcp)
 
 ### Programming Frameworks for LLMs
 
